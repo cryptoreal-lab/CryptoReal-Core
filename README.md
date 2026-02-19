@@ -1,18 +1,28 @@
-# CryptoReal™ Project: Decoding the Fabric of Reality
+# CryptoReal: Decrypting the Fabric of Probability
 
-**Founded:** February 2026
 **Location:** Yerevan, Armenia
-**Discipline:** Non-linear dynamics, Chaos Theory, and Stochastic Electrodynamics.
+**Started:** February 2026
 
-## What is CryptoReal?
-CryptoReal is an independent research initiative focused on finding hidden correlations between macroscopic events (Observer intention/Environmental shifts) and microscopic stochastic processes (True Random Number Generators, hardware noise). 
+## What does "CryptoReal" mean?
+It is the fusion of **Cryptography** and **Reality**. 
+Modern physics assumes that background noise and quantum fluctuations are purely random—meaningless static. CryptoReal operates on a different hypothesis: what we call "random noise" is actually encrypted information. The goal of this project is to build the decryption key.
 
-While classical physics views environmental noise as pure entropy, CryptoReal hypothesizes that intention and macro-events create measurable "information pressure" or turbulence in the fundamental medium, altering probability distributions.
+## The Core Problem
+Science currently treats probability as a static, isolated phenomenon. If you flip a coin, the odds are 50/50, completely detached from what is happening in the room. But what if probability is dynamic? 
 
-## Current Objectives:
-1. Build a high-speed data collection pipeline for hardware noise.
-2. Apply Bayesian statistics and Hidden Markov Models to detect signal anomalies.
-3. Prove that probability is a dynamic, not a static, property of reality.
+I am investigating the hypothesis that macroscopic events—such as human intention, the physical approach of a person (a "guest" entering a space), or sudden environmental shifts—create turbulence in the underlying fundamental medium (the ether/information field). This turbulence subtly alters the probability distributions of microscopic chaotic systems. 
+
+We are not trying to predict financial markets or crypto prices. We are trying to hack the mechanics of cause and effect itself.
+
+## The Methodology
+To prove that macro-events influence micro-chaos, you cannot rely on human-flipped coins. You need massive, high-speed data.
+
+1. **Hardware Data Collection:** Using True Random Number Generators (TRNGs) capturing thermal and quantum hardware noise.
+2. **High-Performance Processing:** Writing raw, optimized C++ code to capture and process millions of bits of noise per second.
+3. **Statistical Decryption:** Applying Hidden Markov Models (HMM), Bayesian inference, and Ramsey theory concepts to detect momentary drops in entropy or hidden patterns that correlate exactly with documented macro-events in the real world.
+
+## The Mission
+To prove that probability is not blind, and that the physical environment reacts to information pressure long before the event actually occurs.
 
 ---
-*The data speaks. We just need to learn its language.*
+*The universe doesn't play dice. It writes code. We just need to read it.*
